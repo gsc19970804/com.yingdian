@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
       <module fileurl="file://D:\Android\gongzuo\com.yingdian\MyProject.iml" filepath="D:\Android\gongzuo\com.yingdian\MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.yingdian.iml" filepath="$PROJECT_DIR$/com.yingdian.iml" />
       <module fileurl="file://D:\MyProject\com.yingdian.iml" filepath="D:\MyProject\com.yingdian.iml" />
     </modules>
   </component>
