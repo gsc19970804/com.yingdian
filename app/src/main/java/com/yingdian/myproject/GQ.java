@@ -5,6 +5,5 @@ package com.yingdian.myproject;
  */
 
 public class GQ {
-
     //我是耿强
 }
